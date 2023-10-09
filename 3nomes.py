@@ -1,0 +1,10 @@
+import time
+nome01= 'Flora'
+nome02= 'Fauna'
+nome03= 'Primavera'
+time.sleep (5.0)
+print (nome01)
+time.sleep (5.0)
+print (nome02)
+time.sleep (5.0)
+print (nome03)
